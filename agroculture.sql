@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `blogdata`
 --
 
-CREATE TABLE `blogdata` (
+CREATE TABLE `` (
   `blogId` int(10) NOT NULL,
   `blogUser` varchar(256) NOT NULL,
   `blogTitle` varchar(256) NOT NULL,
